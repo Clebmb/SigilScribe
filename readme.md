@@ -6,6 +6,10 @@ The **Sigil Scribe** is a simple Python GUI application for processing textual s
 
 ---
 
+[Try out my other project, "The Chaos Engine", which has The Sigil Scribe built in!](https://github.com/Clebmb/TheChaosEngine)
+
+---
+
 ## ✨ Key Features
 
 * **Intent Input:** Enter your textual statement of intent.
